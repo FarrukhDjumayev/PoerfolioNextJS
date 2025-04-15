@@ -1,0 +1,10 @@
+{
+  "HomePage":{
+    "heading": "Hello, I'm Farrukh Djumayev",
+    "subheading": "Frontend Developer",
+    "description": "I'm from Fergana Valley and I have been studying frontend development for more than 1 year. I'm currently studying at Najot Ta'lim as a Frontend Developer student and honing my skills in creating user-friendly websites and applications.",
+    "buttonText": "More About Me →",
+    "switchLang": "UZ"
+  }
+  
+}
