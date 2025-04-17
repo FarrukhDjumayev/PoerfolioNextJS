@@ -199,5 +199,6 @@ export default function Contact() {
         &copy; {new Date().getFullYear()} Farrukh Djumayev. All rights reserved.
       </motion.p>
     </div>
+    
   );
 }

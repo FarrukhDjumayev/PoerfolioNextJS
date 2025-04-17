@@ -47,7 +47,7 @@ export const projects = {
     {
       title: "Portfolio 1",
       description: "Next.js va Tailwind bilan qilingan portfolio sayt.",
-      url: "https://portfolio.example.com",
+      url: "https://poerfolio-next-js.vercel.app/",
       image: "/PortfolioPic.jpg",
     },
   ],
